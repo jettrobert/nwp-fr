@@ -106,7 +106,7 @@ const MyBlog = ({ posts }) => {
       </div>
       <div className="scrolling-text-container">
         <div className="scrolling-text">
-          BIENVENUE DANS LE SYSTÈME DE CONTENU 'NEW WORLD'. L'AVENIR NOUS APPARTIENT. SUIVEZ-NOUS SUR INSTAGRAM POUR RESTER À JOUR.
+          BIENVENUE DANS LE SYSTÈME DE CONTENU NEW WORLD. L'AVENIR NOUS APPARTIENT. SUIVEZ-NOUS SUR INSTAGRAM POUR RESTER À JOUR.
         </div>
       </div>
       <div className="container" ref={containerRef}>
